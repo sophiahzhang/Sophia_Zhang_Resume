@@ -1,0 +1,201 @@
+---
+title: "Sophia Zhang Resume"
+author: Sophia Zhang
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Kyle M. for this template
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> Hao.Zhang634280@tufts.edu
+- <i class="fa fa-github"></i> [github.com/sophiahzhang/](https://github.com/sophiahzhang/)
+- <i class="fa fa-linkedin"></i> [www.linkedin.com/in/sophiaHzhang](https://www.linkedin.com/in/sophiaHzhang)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Proficient in R (RStudio), Python (Jupyter, Spyder), Git, QGIS, AFT, MATLAB
+
+- Excels at **data analysis**, with a focus on business, health and bio-informatics, economics, and engineering models
+
+- Experienced in **data communication**; interpreting data and building models 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+- 8 years of **engineering experience** in industrial applications
+
+- Expert in process optimization, risk management, consulting and client relations
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Sophia Zhang {#title}
+--------------------------------------------------------------------------------
+
+### Data analysis and visualization expert seeking Summer 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true} 
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analytics
+
+Medford, MA
+
+2020--Current
+
+
+### University of Alberta
+
+B.Sc. in Chemical Engineering
+
+Edmonton, AB, Canada  
+
+2007--2012
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Process Engineer
+
+Bantrel Co.
+
+Edmonton, AB, Canada
+
+Feb 2017--Sep 2020
+
+-	Effectively used empirical operations data to forecast the magnitude and consequence of various risk scenarios in pipeline projects
+-	Expert in modeling to determine cost effective, compliant, and practicable solutions to mitigate risk
+-	Experienced in analyzing large and small capital projects with different layers of complexity from single equipment to large connected networks  
+-	Processed and presented trends from large volumes of data (collected from monitoring systems) 
+-	Optimized production by reducing redundancy in plant work processes and design
+-	Actively communicated and provided timely support to clients for project implementation
+-	Recognized by client for presenting innovative and cost saving solutions 
+-	Participated in full project cycle from research and information collection, proposal and project bid, cost estimation, presentation and delivery of viable solutions to client and implementation support
+
+### Project Engineer	
+
+CEPro Energy & Environmental Services
+
+Edmonton, AB, Canada
+
+Sep 2016 -- Feb 2017	
+
+-	Evaluated feasibility of expansion into the strand natural gas delivery market by investigating established and upcoming technologies and their market trends
+-	Developed business, siting, procurement, and regulatory plans and conceptual design for a clean energy technology, natural gas power generation plant
+-	Engaged in business development by presenting additional services to current clients and researching and cold calling potential clients via industry contacts
+-	Coordinated site assessment projects and ensured regulatory compliance between stakeholders
+-	Applied directives from the federal, provincial and municipal regulations and standards regarding activities for the production, transmission, and distribution of energy
+
+### Process Engineer-In-Training	
+
+Edmonton, AB, Canada
+
+Stantec Inc.
+
+May 2012 -- May 2015 
+
+-	Designed multifunctional models for complex plants and processes by incorporating multiple information sources including system and component drawings, equipment datasheets, technical reports, 3D models, and databases
+-	Developed department work standards, technical and business reports, scope of work, cost estimates, project workflows, and process implementation guidelines 
+-	Estimated capital cost and operating cost, compared tenders and bid proposals from vendors for various technologies
+-	Eliminated $10 million of infrastructure costs by identifying risks and developing solutions using data analysis and simulation in a pipeline system 
+-	Conducted systematic health, safety & risk management assessments 
+-	Managed multiple projects’ scope, budget, schedule and performed quality reviews and audits
+-	Increased productivity by implementing team matrices to align project needs with members’ skills
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2020--Current
+
+<!--::: concise-->
+- Developed a model in R which predicted student test scores based on features such as student enrollment and school expenditure
+- Iterated the model to select the best approach, given OLS, LASSO, and ridge regression and random forest.
+<!--:::-->
+
+### DATA-201 Machine Learning in Python
+
+Tufts University
+
+Medford, MA
+
+2020--Current
+
+- Constructed a predictive model in Python for US market avocado prices 
+- Applied linear and logistic regression, principle component analysis (PCA), and KNN algorithms to predict price, analyze time series data, and classify avocado types.
+- Created clear and insightful visualizations to communicate the findings.
+
+
+### COMP-134 Computational Models in Cognitive Science
+
+Tufts University
+
+Medford, MA
+
+2020 -- Current
+
+- Created a Bayesian predictive model in R with JAGS for natural language processing
+- Predicted human reaction time and classification of conversational pauses by testing various models and evaluating their accuracy on laboratory data.
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Foundations of Data Analyics
+
+Tufts University
+
+Medford, MA
+
+November 2020
+
+- Developed a model for predicting Airbnb listing price based on reviews, property characteristics and location in Cambridge, Massachusetts
+- Presented findings of the model and evaluation metrics to my cohort. 
+
+
+### DATA-201 Machine Learning in Python
+
+Tufts University
+
+Medford, MA
+
+October 2020
+
+- Presented an exploratory data analysis for heart disease hospital data analyzing patient demographics, cholesterol, blood pressure, and medical ECG readings.
+- Created clear and insightful visualizations to communicate the findings. 
+
