@@ -21,7 +21,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> Hao.Zhang634280@tufts.edu
+- <i class="fa fa-envelope"></i> Sophia.Zhang@tufts.edu
 - <i class="fa fa-github"></i> [github.com/sophiahzhang/](https://github.com/sophiahzhang/)
 - <i class="fa fa-linkedin"></i> [www.linkedin.com/in/sophiaHzhang](https://www.linkedin.com/in/sophiaHzhang)
 
@@ -29,17 +29,15 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Proficient in R (RStudio), Python (Jupyter, Spyder), Git, QGIS, AFT, MATLAB
+- 2 years of statistical **data science** and 8 years of **engineering experience** in industrial applications.
+
+- Proficient in Python, Git, R, SQL, QGIS, Matlab and Tableau
 
 - Excels at **data analysis**, with a focus on business, health and bio-informatics, economics, and engineering models
 
-- Experienced in **data communication**; interpreting data and building models 
+- Experience in **data communication**, visualization and cloud platforms (AWS)
 
-- **Machine Learning** on cloud platforms (AWS)
-
-- 8 years of **engineering experience** in industrial applications
-
-- Expert in process optimization, risk management, consulting and client relations
+- Statistics and **Machine Learning** algorithms: regression, KNN, PCA, SVM, random forest
 
 
 Disclaimer {#disclaimer}
@@ -57,7 +55,7 @@ Main
 Sophia Zhang {#title}
 --------------------------------------------------------------------------------
 
-### Data analysis and visualization expert seeking Summer 2021 internship
+### Data science and visualization expert who solves real world challenges with analytics.
 
 
 Education {data-icon=graduation-cap data-concise=true} 
@@ -65,12 +63,19 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analytics
+MS in Data Analytics
 
 Medford, MA
 
-2020--Current
+2020--Sep 2021
 
+### Massachusetts Institute of Technology
+
+MicroMaster in Statistics and Data Science
+
+Cambridge, MA
+
+2020--July 2021
 
 ### University of Alberta
 
@@ -93,14 +98,16 @@ Edmonton, AB, Canada
 
 Feb 2017--Sep 2020
 
--	Effectively used empirical operations data to forecast the magnitude and consequence of various risk scenarios in pipeline projects
--	Expert in modeling to determine cost effective, compliant, and practicable solutions to mitigate risk
+- Forecasted equipment performance and probability of failure using regression analysis
+- Modeled physical processes using technical drawings, equipment, reports, and databases
+- Eliminated $10 million in infrastructure costs by analyzing time series pressure data in a pipeline system, identifying risk patterns and developing solutions to mitigate overpressure
 -	Experienced in analyzing large and small capital projects with different layers of complexity from single equipment to large connected networks  
 -	Processed and presented trends from large volumes of data (collected from monitoring systems) 
 -	Optimized production by reducing redundancy in plant work processes and design
 -	Actively communicated and provided timely support to clients for project implementation
 -	Recognized by client for presenting innovative and cost saving solutions 
 -	Participated in full project cycle from research and information collection, proposal and project bid, cost estimation, presentation and delivery of viable solutions to client and implementation support
+
 
 ### Project Engineer	
 
@@ -110,10 +117,9 @@ Edmonton, AB, Canada
 
 Sep 2016 -- Feb 2017	
 
+- Presented clear visual analysis and saved company unprofitable entry into natural gas market
 -	Evaluated feasibility of expansion into the strand natural gas delivery market by investigating established and upcoming technologies and their market trends
 -	Developed business, siting, procurement, and regulatory plans and conceptual design for a clean energy technology, natural gas power generation plant
--	Engaged in business development by presenting additional services to current clients and researching and cold calling potential clients via industry contacts
--	Coordinated site assessment projects and ensured regulatory compliance between stakeholders
 -	Applied directives from the federal, provincial and municipal regulations and standards regarding activities for the production, transmission, and distribution of energy
 
 ### Process Engineer-In-Training	
@@ -124,19 +130,20 @@ Stantec Inc.
 
 May 2012 -- May 2015 
 
+- Predicted consequences of pipeline risk scenarios based on time series and non-linear data
+- Reduced millions in infrastructure cost by proposing simple changes to control and operation
 -	Designed multifunctional models for complex plants and processes by incorporating multiple information sources including system and component drawings, equipment datasheets, technical reports, 3D models, and databases
 -	Developed department work standards, technical and business reports, scope of work, cost estimates, project workflows, and process implementation guidelines 
 -	Estimated capital cost and operating cost, compared tenders and bid proposals from vendors for various technologies
--	Eliminated $10 million of infrastructure costs by identifying risks and developing solutions using data analysis and simulation in a pipeline system 
 -	Conducted systematic health, safety & risk management assessments 
 -	Managed multiple projects’ scope, budget, schedule and performed quality reviews and audits
 -	Increased productivity by implementing team matrices to align project needs with members’ skills
 
 
-Selected Project Experience {data-icon=chalkboard-teacher}
+Data Science Projects {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### Avocado Price Prediction
 
 Tufts University
 
@@ -145,11 +152,10 @@ Medford, MA
 2020--Current
 
 <!--::: concise-->
-- Developed a model in R which predicted student test scores based on features such as student enrollment and school expenditure
-- Iterated the model to select the best approach, given OLS, LASSO, and ridge regression and random forest.
+- Applied linear and logistic regression, principal component analysis (PCA), and K-nearest neighbors (KNN) algorithms in **Python Scikit-learn** to predict US market price trends.
 <!--:::-->
 
-### DATA-201 Machine Learning in Python
+### Airbnb Listing Price Prediction
 
 Tufts University
 
@@ -157,12 +163,20 @@ Medford, MA
 
 2020--Current
 
-- Constructed a predictive model in Python for US market avocado prices 
-- Applied linear and logistic regression, principle component analysis (PCA), and KNN algorithms to predict price, analyze time series data, and classify avocado types.
-- Created clear and insightful visualizations to communicate the findings.
+- Predicted Cambridge Airbnb prices using multivariate regression in R
 
+### Heart Attack Survival Analysis
 
-### COMP-134 Computational Models in Cognitive Science
+Tufts University
+
+Medford, MA
+
+2020 -- Current
+
+- Bioinformatics model in R using Kaplan-Meier estimator (probability of survival). 
+- Applied machine learning algorithms: logistic regression, KNN, and random forest
+
+### Natural Language Patterns
 
 Tufts University
 
@@ -173,29 +187,12 @@ Medford, MA
 - Created a Bayesian predictive model in R with JAGS for natural language processing
 - Predicted human reaction time and classification of conversational pauses by testing various models and evaluating their accuracy on laboratory data.
 
-
-Selected Presentations {data-icon=comment-alt}
---------------------------------------------------------------------------------
-### DATA-200 Foundations of Data Analyics
+### Factors for Heart Disease
 
 Tufts University
 
 Medford, MA
 
-November 2020
+2020 -- Current
 
-- Developed a model for predicting Airbnb listing price based on reviews, property characteristics and location in Cambridge, Massachusetts
-- Presented findings of the model and evaluation metrics to my cohort. 
-
-
-### DATA-201 Machine Learning in Python
-
-Tufts University
-
-Medford, MA
-
-October 2020
-
-- Presented an exploratory data analysis for heart disease hospital data analyzing patient demographics, cholesterol, blood pressure, and medical ECG readings.
-- Created clear and insightful visualizations to communicate the findings. 
-
+- Exploratory data analysis in Python analyzing patient demographics, cholesterol, blood pressure, and medical ECG readings.
